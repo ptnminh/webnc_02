@@ -3,7 +3,6 @@ import InfiniteScroll from "./components/images";
 import { Input } from "./components/input";
 import { Gallery } from "react-grid-gallery";
 import ClipLoader from "react-spinners/ClipLoader";
-import styles from "./index.css";
 
 const override = {
   display: "block",
